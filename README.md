@@ -133,6 +133,18 @@ Databases:
 [Postgres]: http://www.postgresql.org/
 [Redis]: http://redis.io/
 
+Direnv:
+
+* [direnv] for managing environment variables
+
+[direnv]: https://github.com/direnv/direnv
+  
+Docker:
+
+* [Docker] for containers
+
+[Docker]: https://www.docker.com
+
 It should take less than 15 minutes to install (depends on your machine).
 
 Customize in `~/.laptop.local`

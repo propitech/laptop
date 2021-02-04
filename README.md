@@ -138,12 +138,19 @@ Direnv:
 * [direnv] for managing environment variables
 
 [direnv]: https://github.com/direnv/direnv
-  
+
 Docker:
 
 * [Docker] for containers
 
 [Docker]: https://www.docker.com
+
+pinentry-mac:
+
+* [pinentry-mac] for containers
+
+[pinentry-mac]: https://github.com/GPGTools/pinentry
+
 
 It should take less than 15 minutes to install (depends on your machine).
 
